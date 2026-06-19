@@ -177,7 +177,7 @@ export default function Dashboard() {
           <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
             <div style={{ width: 44, height: 44, borderRadius: 12, background: 'linear-gradient(135deg, #fef3c7, #fde68a)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.3rem' }}>🛒</div>
             <div>
-              <div style={{ fontWeight: 700, fontSize: '0.92rem' }}>Kelola Pesanan</div>
+              <div style={{ fontWeight: 700, fontSize: '0.92rem' }}>Orders</div>
               <div style={{ color: 'var(--text-muted)', fontSize: '0.8rem' }}>Buat dan pantau pesanan</div>
             </div>
           </div>
